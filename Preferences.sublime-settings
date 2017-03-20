@@ -13,15 +13,15 @@
     "theme_agila_vertical_scrollbar_invisible": true,  //width:  0
     "theme_agila_horizontal_scrollbar_invisible": true,
     // General
-    // "ignored_packages": ["Vintage"],
+    "ignored_packages": ["Vintage"],
     // Font
     "font_face": "Hack",
-    "font_size": 10.5,
+    "font_size": 10,
     // UI
     "always_show_minimap_viewport": true,
     "highlight_line": true,
     "rulers": [80],
-    "word_wrap": "true",
+    "word_wrap": true,
     // Misc
     "smart_indent": true,
     "tab_size": 4,
