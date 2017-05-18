@@ -10,11 +10,12 @@
 		"Agila Theme",
 		"GitGutter",
 		"Text Pastry",
-		
+
 		// Langs
 		"MarkdownEditing",
 		"Anaconda",
-	
+		"Jinja2",
+
 		// Extra Lang Packages
 		// "ANTLR syntax highlight",
 		// "Prolog",
@@ -22,5 +23,7 @@
 		// "Racket",
 		// "TypeScript",
 		// "Yang Syntax Highlighting"
+		// "NASM x86 Assembly"
+		// "MIPS Syntax"
 	]
 }
