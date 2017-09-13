@@ -1,17 +1,21 @@
 {
     // Theme
-    "theme": "Agila Monokai.sublime-theme",
-    "color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
+    // Default
+    "theme": "Adaptive.sublime-theme",
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    // "theme": "Agila Monokai.sublime-theme",
+    // "color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
     // Agila
-    "theme_agila_auto_complete_lightblue": true,
-    "theme_agila_compact_tab": true,
-    "theme_agila_horizontal_scrollbar_lightblue": true,
-    "theme_agila_vertical_scrollbar_lightblue": true,
-    "theme_agila_sidebar_font_xsmall": true,
-    "theme_agila_sidebar_small": true,
-    "theme_agila_sidebar_selected_entry_lightblue": true,
-    "theme_agila_vertical_scrollbar_invisible": true,  //width:  0
-    "theme_agila_horizontal_scrollbar_invisible": true,
+    // "theme_agila_auto_complete_lightblue": true,
+    // "theme_agila_compact_tab": true,
+    // "theme_agila_horizontal_scrollbar_lightblue": true,
+    // "theme_agila_vertical_scrollbar_lightblue": true,
+    // "theme_agila_sidebar_font_xsmall": true,
+    // "theme_agila_sidebar_small": true,
+    // "theme_agila_sidebar_selected_entry_lightblue": true,
+    // "theme_agila_vertical_scrollbar_invisible": true,  //width:  0
+    // "theme_agila_horizontal_scrollbar_invisible": true,
+
     // General
     "ignored_packages": ["Vintage"],
     // Font
