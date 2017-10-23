@@ -1,0 +1,6 @@
+{
+    "debounce_delay": 100,
+    // "show_markers_on_untracked_file": false,
+    "show_in_minimap": 2,
+    "theme": "Bars.gitgutter-theme",
+}

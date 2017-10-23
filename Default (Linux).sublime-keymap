@@ -1,5 +1,13 @@
 [
     { "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
-    { "keys": ["alt+shift+d"], "command": "diff_changes" }
-    // { "keys": ["ctrl+k"], "command": "build" }
+    { "keys": ["alt+shift+d"], "command": "diff_changes" },
+    // { "keys": ["ctrl+k"], "command": "build" } } },
+
+    // Tab navigation
+    // Defaults already already
+    // { "keys": ["ctrl+pagedown"], "command": "next_view" },
+    // { "keys": ["ctrl+pageup"], "command": "prev_view" },
+    // Ctrl+tab fix
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 ]
