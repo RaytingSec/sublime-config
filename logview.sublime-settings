@@ -1,0 +1,6 @@
+{
+    "warning_filter": "warning|not found|defer(ed)?|WARN",
+    "error_filter": "error|fail|exception|ALRT",
+    "highlight_style": "fill",
+    // "highlight_style": "outline",
+}

@@ -11,10 +11,11 @@
 		"GitGutter",
 		"Text Pastry",
 
-		// Langs
+		// Syntax
 		"MarkdownEditing",
 		"Anaconda",
 		"Jinja2",
+		"LogView",
 
 		// Extra Lang Packages
 		// "ANTLR syntax highlight",
