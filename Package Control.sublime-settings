@@ -7,7 +7,8 @@
 	[
 		// General & utils
 		"Package Control",
-		"Agila Theme",
+		// "Agila Theme",
+		"Monokai Extended",
 		"GitGutter",
 		"Text Pastry",
 
