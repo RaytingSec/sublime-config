@@ -1,11 +1,15 @@
 {
-    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-    // "color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
+    // Default sublime theme
+    // "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    // Monokai Extended theme
+    "color_scheme": "Packages/Monokai Extended/Monokai Extended Origin.tmTheme",
+    // Default package dark theme
     // "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
 
     "line_numbers": true,
+    "caret_style": "smooth",
     // "highlight_line": true,
     "spell_check": true,
     "draw_centered": false,
-    "wrap_width": 0
+    "wrap_width": 0,
 }
