@@ -18,6 +18,8 @@
 		"Anaconda",
 		"Jinja2",
 		"LogView",
+		"Paradox",
+		"HexViewer"
 
 		// Extra Lang Packages
 		// "ANTLR syntax highlight",
