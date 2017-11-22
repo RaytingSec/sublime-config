@@ -20,13 +20,15 @@
 		"LogView",
 		"Paradox",
 		"HexViewer"
+		"Ansible",
+		"AnsibleSnippets"
 
 		// Extra Lang Packages
-		// "ANTLR syntax highlight",
-		// "Prolog",
-		// "Python 3",
-		// "Racket",
-		// "TypeScript",
+		// "ANTLR syntax highlight"
+		// "Prolog"
+		// "Python 3"
+		// "Racket"
+		// "TypeScript"
 		// "Yang Syntax Highlighting"
 		// "NASM x86 Assembly"
 		// "MIPS Syntax"
