@@ -12,6 +12,7 @@
 		"GitGutter",
 		"Text Pastry",
 		"MoveTab",
+		"HTML-CSS-JS Prettify",
 
 		// Syntax
 		"MarkdownEditing",
@@ -22,6 +23,7 @@
 		"HexViewer"
 		"Ansible",
 		"AnsibleSnippets"
+		"INI"
 
 		// Extra Lang Packages
 		// "ANTLR syntax highlight"
