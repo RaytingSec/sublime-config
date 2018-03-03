@@ -5,7 +5,8 @@
     "anaconda_linter_mark_style": "none",
     "pep8_ignore":
     [
+        "E231",  // colon whitespace
         "E501",  // line longer than 80
         "W191",  // mixed whitespace
-    ],
+    ]
 }
