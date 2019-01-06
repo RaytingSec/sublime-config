@@ -3,10 +3,12 @@
 
     // Default
     "theme": "Adaptive.sublime-theme",
-    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "color_scheme": "Monokai.sublime-color-scheme",
+    // "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+
+    // Agila
     // "theme": "Agila Monokai.sublime-theme",
     // "color_scheme": "Packages/Agila Theme/Agila Monokai Extended.tmTheme",
-    // Agila
     // "theme_agila_auto_complete_lightblue": true,
     // "theme_agila_compact_tab": true,
     // "theme_agila_horizontal_scrollbar_lightblue": true,
