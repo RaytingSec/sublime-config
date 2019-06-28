@@ -3,6 +3,10 @@
     "anaconda_linter_delay": 0.1,
     "anaconda_gutter_theme": "bright",
     "anaconda_linter_mark_style": "none",
+    "autoformat_ignore":
+    [
+        "E501",  // line longer than 80
+    ],
     "pep8_ignore":
     [
         "E231",  // colon whitespace
