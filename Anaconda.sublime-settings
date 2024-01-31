@@ -13,5 +13,6 @@
         "E501",  // line longer than 80
         "W191",  // mixed whitespace
         "W391",  // EOF newline
+        "E252",  // whitespace around param equals
     ]
 }
