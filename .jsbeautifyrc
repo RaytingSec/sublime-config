@@ -1,0 +1,9 @@
+{
+    "all": {
+        "end_with_newline": true,
+    },
+    "json": {
+        // collapse|collapse-preserve-inline|expand|end-expand|none
+        "brace_style": "collapse-preserve-inline",
+    }
+}

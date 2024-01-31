@@ -21,7 +21,10 @@
 
     // General
 
-    "ignored_packages": [ "Vintage" ],
+    "ignored_packages": [
+        "Markdown",
+        "Vintage",
+    ],
     // Font
     "font_face": "Hack",
     "font_size": 10,
@@ -32,6 +35,10 @@
     "always_show_minimap_viewport": true,
     "spell_check": false,
     "highlight_line": true,
-    "rulers": [ 80, 120 ],
+    "rulers": [
+        80,
+        120
+    ],
     "word_wrap": true,
+    "hot_exit": "only_on_quit",
 }

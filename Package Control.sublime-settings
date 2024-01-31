@@ -1,38 +1,35 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		// General & utils
-		"Package Control",
-		// "Agila Theme",
-		"Monokai Extended",
-		"GitGutter",
-		"Text Pastry",
-		"MoveTab",
-		"HTML-CSS-JS Prettify",
+    "bootstrapped": true,
+    "in_process_packages": [],
+    "installed_packages": [
+        // General & utils
+        "Package Control",
+        // "Agila Theme",
+        // "Monokai Extended",
+        "GitGutter",
+        "Text Pastry",
+        "MoveTab",
+        "HTML-CSS-JS Prettify",
 
-		// Syntax
-		"MarkdownEditing",
-		"Anaconda",
-		"Jinja2",
-		"LogView",
-		"Paradox",
-		"HexViewer",
-		"Ansible",
-		"AnsibleSnippets",
-		"INI"
+        // Syntax
+        "MarkdownEditing",
+        "Anaconda",
+        "Jinja2",
+        "LogView",
+        "Paradox",
+        "HexViewer",
+        "Ansible",
+        "AnsibleSnippets",
+        "INI"
 
-		// Extra Lang Packages
-		// "ANTLR syntax highlight"
-		// "Prolog"
-		// "Python 3"
-		// "Racket"
-		// "TypeScript"
-		// "Yang Syntax Highlighting"
-		// "NASM x86 Assembly"
-		// "MIPS Syntax"
-	]
+        // Extra Lang Packages
+        // "ANTLR syntax highlight"
+        // "Prolog"
+        // "Python 3"
+        // "Racket"
+        // "TypeScript"
+        // "Yang Syntax Highlighting"
+        // "NASM x86 Assembly"
+        // "MIPS Syntax"
+    ],
 }
