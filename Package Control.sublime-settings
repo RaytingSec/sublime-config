@@ -2,34 +2,53 @@
     "bootstrapped": true,
     "in_process_packages": [],
     "installed_packages": [
-        // General & utils
         "Package Control",
+
+        // General & utils
+        "GitGutter",
+        "HexViewer",
+        "HTML-CSS-JS Prettify",
+        "MoveTab",
+        "sublime-github",
+        "Text Pastry",
+
+        // JSON
+        "Jq",
+        "JSON Key-Value",
+        "JsonTree",
+        "Status Bar JsonPath",
+
+        // Themes
         // "Agila Theme",
         // "Monokai Extended",
-        "GitGutter",
-        "Text Pastry",
-        "MoveTab",
-        "HTML-CSS-JS Prettify",
+
+        // Markdown
+        "MarkdownEditing",
+        "Markdown Table Formatter",
 
         // Syntax
-        "MarkdownEditing",
         "Anaconda",
-        "Jinja2",
-        "LogView",
-        "Paradox",
-        "HexViewer",
         "Ansible",
         "AnsibleSnippets",
-        "INI"
+        "INI",
+        "Jinja2",
+        "jsonnet syntax",
+        "LogView",
+        "LSP",
+        "LSP-gopls",
+        "LSP-terraform",
+        "Paradox",
+        "rainbow_csv",
+        "Terraform",
 
         // Extra Lang Packages
         // "ANTLR syntax highlight"
+        // "MIPS Syntax"
+        // "NASM x86 Assembly"
         // "Prolog"
         // "Python 3"
         // "Racket"
         // "TypeScript"
         // "Yang Syntax Highlighting"
-        // "NASM x86 Assembly"
-        // "MIPS Syntax"
     ],
 }
