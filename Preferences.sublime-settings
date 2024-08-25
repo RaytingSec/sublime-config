@@ -22,7 +22,6 @@
     // General
 
     "ignored_packages": [
-        "Markdown",
         "Vintage",
     ],
     // Font

@@ -4,7 +4,7 @@
     [
         {"selector": "source.python - string - comment - constant.numeric", "characters": "."}
     ],
-    "cmd": ["/usr/bin/python3", "-u", "-m", "${file///}"],
+    "cmd": ["/usr/bin/python", "-u", "-m", "${file///}"],
     "working_dir": "/home/bar/spam/regex/TFG/",
     "selector": "source.python",
     "file_regex": "file \"(...*?)\", line ([0-9]+)"

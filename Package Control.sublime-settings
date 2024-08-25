@@ -32,14 +32,14 @@
         "AnsibleSnippets",
         "INI",
         "Jinja2",
-        "jsonnet syntax",
+        // "jsonnet syntax",
         "LogView",
-        "LSP",
-        "LSP-gopls",
-        "LSP-terraform",
-        "Paradox",
+        // "LSP",
+        // "LSP-gopls",
+        // "LSP-terraform",
+        // "Paradox",
         "rainbow_csv",
-        "Terraform",
+        // "Terraform",
 
         // Extra Lang Packages
         // "ANTLR syntax highlight"
