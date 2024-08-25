@@ -15,4 +15,5 @@
     "spell_check": true,
     "draw_centered": false,
     "wrap_width": 0,
+    "mde.list_indent_auto_switch_bullet": true
 }
