@@ -27,14 +27,15 @@
         "Markdown Table Formatter",
 
         // Syntax
-        "Anaconda",
+        // "Anaconda",
         "Ansible",
         "AnsibleSnippets",
         "INI",
         "Jinja2",
         // "jsonnet syntax",
         "LogView",
-        // "LSP",
+        "LSP",
+        "LSP-pyright",
         // "LSP-gopls",
         // "LSP-terraform",
         // "Paradox",
